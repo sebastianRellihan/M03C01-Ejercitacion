@@ -26,4 +26,6 @@ let persona = {
         }
     }
 }
-mayor(20);
+persona.saludar('Sebastian');
+persona.despedir('Brahim');
+persona.esMayor(20);
