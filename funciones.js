@@ -1,4 +1,3 @@
-functio saludar(nombre) {
+function saludar(nombre) {
     console.log('Hola '+nombre);
-    
 }
