@@ -14,3 +14,4 @@ function mayor(edad) {
         console.log('Sos menor de edad');
     }
 }
+mayor(20);
